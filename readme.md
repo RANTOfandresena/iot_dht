@@ -86,7 +86,7 @@ Ces connexions sont essentielles pour garantir le bon fonctionnement du capteur 
 
 Voici une vidéo de démonstration du projet :
 
-![Vidéo de démonstration](captureVideo.webm)
+![Vidéo de démonstration](captureVideo.mp4)
 
 
 
