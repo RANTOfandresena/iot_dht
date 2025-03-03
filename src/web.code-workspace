@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../tp/web"
+		},
+		{
+			"name": "test2",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
